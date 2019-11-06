@@ -1,4 +1,4 @@
-# Playtest for [Game Title]
+# Playtest for Stick Fight: The Game
 
 * Landfall Games
 * E for Everyone
